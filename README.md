@@ -11,7 +11,7 @@ Algorithm Evaluation: Compared the performance of three CNN architectures: AlexN
 Performance Measurement: Measured the runtime and accuracy of each algorithm to understand the trade-offs between computational efficiency and classification accuracy.
 
 ## Technologies Used
-Python, NumPy, Matplotlib
+Python
 ## Files Included
 get_input_args.py: Retrieves 3 arguments provided by the user when they run the program from the command line. It essentially parses the user's input and returns a collection of these arguments as a variable named "in_arg".
 
