@@ -27,6 +27,6 @@ print_results.py: Prints out various summaries of the results.
 
 ## Results
 The project successfully classified images, providing insights into the accuracy of each CNN architecture. The results highlighted the effectiveness of the chosen model in distinguishing between similar-looking dog breeds.
-![App Screenshot](https://i.ibb.co/SVmfdk0/376.png" alt="376" )
+![App Screenshot](https://i.ibb.co/SVmfdk0/376.png")
 
 
